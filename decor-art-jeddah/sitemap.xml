@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- الصفحة الرئيسية -->
+    <url>
+        <loc>https://decor-art-jeddah.com/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://decor-art-jeddah.com/" />
+        <xhtml:link rel="alternate" hreflang="ar-sa" href="https://decor-art-jeddah.com/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://decor-art-jeddah.com/" />
+        
+        <!-- صور الصفحة الرئيسية -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1615529328331-f8917597711f?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1600&amp;q=80</image:loc>
+            <image:title>ديكور آرت جدة - تصميم داخلي وديكور منازل في جدة</image:title>
+            <image:caption>مصمم ديكور متخصص في جدة، نقدم خدمات تصميم داخلي، ديكور فلل، شقق، مكاتب</image:caption>
+            <image:geo_location>جدة, السعودية</image:geo_location>
+            <image:license>https://unsplash.com/license</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1600&amp;q=80</image:loc>
+            <image:title>ديكور جدة الساحلي - مقاوم للرطوبة</image:title>
+        </image:image>
+    </url>
+
+    <!-- معرض الأعمال -->
+    <url>
+        <loc>https://decor-art-jeddah.com/#portfolio</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        
+        <!-- مشروع 1 -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1615529328331-f8917597711f?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>فيلا سكنية فاخرة في حي الروضة - جدة</image:title>
+            <image:caption>تصميم عصري بلمسات تراثية في حي الروضة جدة - 450م²</image:caption>
+        </image:image>
+        
+        <!-- مشروع 2 -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>شقة ساحلية على كورنيش جدة</image:title>
+            <image:caption>تصميم ساحلي مقاوم للرطوبة في الكورنيش جدة - 180م²</image:caption>
+        </image:image>
+        
+        <!-- مشروع 3 -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>ترميم فيلا تراثية في جدة التاريخية</image:title>
+            <image:caption>ترميم مع الحفاظ على الطابع التراثي في جدة التاريخية - 320م²</image:caption>
+        </image:image>
+        
+        <!-- مشروع 4 -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>مقر شركة تقنية في جدة</image:title>
+            <image:caption>تصميم مكتب مفتوح في حي الصحيفة جدة - 800م²</image:caption>
+        </image:image>
+    </url>
+
+    <!-- خريطة جدة -->
+    <url>
+        <loc>https://decor-art-jeddah.com/#map</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jeddah_districts_map.svg/800px-Jeddah_districts_map.svg.png</image:loc>
+            <image:title>خريطة أحياء جدة - ديكور حسب المنطقة</image:title>
+        </image:image>
+    </url>
+
+    <!-- جدة التاريخية -->
+    <url>
+        <loc>https://decor-art-jeddah.com/#historical</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>جدة التاريخية - ديكور تراثي</image:title>
+        </image:image>
+    </url>
+
+    <!-- طقس جدة والديكور -->
+    <url>
+        <loc>https://decor-art-jeddah.com/#weather</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- اتصل بنا -->
+    <url>
+        <loc>https://decor-art-jeddah.com/#contact</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- صفحات افتراضية (سيتم إنشاؤها لاحقاً) -->
+    <url>
+        <loc>https://decor-art-jeddah.com/portfolio/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://decor-art-jeddah.com/services/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://decor-art-jeddah.com/about/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://decor-art-jeddah.com/contact/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- مقالات المدونة (مثال) -->
+    <url>
+        <loc>https://decor-art-jeddah.com/blog/best-decor-colors-jeddah/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1615529328331-f8917597711f?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>أفضل ألوان الديكور في جدة - دليل شامل</image:title>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://decor-art-jeddah.com/blog/humidity-resistant-decor/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://decor-art-jeddah.com/blog/jeddah-historical-decor/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>

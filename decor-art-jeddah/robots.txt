@@ -1,0 +1,106 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /style.css
+Allow: /script.js
+
+# منع ملفات النظام
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search/
+Disallow: /private/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /backup/
+Disallow: /test/
+Disallow: /temp/
+
+# منع ملفات معينة
+Disallow: /sitemap.xml
+Disallow: /robots.txt
+Disallow: /humans.txt
+Disallow: /.htaccess
+Disallow: /.htpasswd
+Disallow: /error_log
+Disallow: /access_log
+Disallow: /server-status
+
+# منع أنواع ملفات معينة
+Disallow: /*.php$
+Disallow: /*.sql$
+Disallow: /*.zip$
+Disallow: /*.tar.gz$
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /*.old$
+Disallow: /*.tmp$
+
+# Crawl-delay لبعض البوتات الثقيلة
+Crawl-delay: 10
+
+# تعليمات خاصة لبوتات محددة
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Disallow: /private/
+Crawl-delay: 5
+
+User-agent: YandexBot
+Allow: /
+Disallow: /private/
+Crawl-delay: 10
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /private/
+Crawl-delay: 15
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /private/
+Crawl-delay: 3
+
+User-agent: Applebot
+Allow: /
+Disallow: /private/
+Crawl-delay: 5
+
+# Bot مخرب أو ثقيل
+User-agent: AhrefsBot
+Crawl-delay: 15
+
+User-agent: SemrushBot
+Crawl-delay: 15
+
+User-agent: MJ12bot
+Crawl-delay: 20
+
+User-agent: DotBot
+Crawl-delay: 20
+
+User-agent: MegaIndex
+Crawl-delay: 30
+
+User-agent: BLEXBot
+Crawl-delay: 30
+
+# روابط Sitemap
+Sitemap: https://decor-art-jeddah.com/sitemap.xml
+Sitemap: https://decor-art-jeddah.com/sitemap-images.xml
+Sitemap: https://decor-art-jeddah.com/sitemap-videos.xml
+
+# معلومات الاتصال
+# للتواصل في حالة وجود مشاكل:
+# Contact: mhammadalhisami5544@gmail.com
+# Phone: +966535544019
+# Location: Jeddah, Saudi Arabia
+
+# سياسة الزحف
+# يتم تحديث المحتوى يومياً
+# أفضل وقت للزحف: 02:00 - 04:00 توقيت السعودية
